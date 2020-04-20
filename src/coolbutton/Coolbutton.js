@@ -1,0 +1,17 @@
+import React, { Component } from 'react';
+import 'bulma/css/bulma.css';
+
+class Coolbutton extends Component {
+    render() {
+        return (
+            <div>
+                <div>
+                    <button className="button is-rounded my-class is-danger is-small">Button 1</button>
+                    <button className="button is-small is-success">Button 2</button>
+                </div>
+            </div>
+        );
+    }
+}
+
+export default Coolbutton;
