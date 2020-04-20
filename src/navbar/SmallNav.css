@@ -1,0 +1,13 @@
+#small-nav {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: orange;
+    width: 500px;
+    margin-left: 700px;
+    border-radius: 15px;
+}
+
+#signup-heading {
+    font-size: 2em;
+    margin-left: 0.25em;
+}
